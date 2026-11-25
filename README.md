@@ -261,8 +261,4 @@ Python 3.13 · Flask · Ultralytics YOLO · PyTorch (CPU) · OpenCV · onnxrunti
 
 ---
 
-## 📄 Licença
-
-Defina a licença do projeto (por exemplo, MIT) e coloque o texto no arquivo `LICENSE`.
-
 <div align="center"><sub>Argos: o gigante de cem olhos da mitologia grega, que nunca dormia por inteiro.</sub></div>
