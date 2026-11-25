@@ -1,0 +1,7 @@
+flask>=3.0
+opencv-python>=4.8
+requests>=2.31
+imageio-ffmpeg>=0.4
+ultralytics>=8.0
+neonize>=0.10
+onnxruntime>=1.20

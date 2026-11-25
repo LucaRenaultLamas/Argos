@@ -1,0 +1,29 @@
+# Dados pessoais / segredos (senhas das cameras, fotos, sessao do WhatsApp)
+cameras*.json
+!cameras.exemplo.json
+media/
+*.sqlite3
+
+# Registros e arquivos temporarios
+*.log
+*.tmp
+*.novo
+instalado.txt
+
+# Modelos baixados na primeira execucao
+modelos/
+
+# Ambiente e build
+.venv/
+__pycache__/
+*.pyc
+instalador/.build/
+instalador/dist/
+build/
+dist/
+
+# Backups
+*.bak
+
+# Script local de publicacao
+publicar-github.bat
